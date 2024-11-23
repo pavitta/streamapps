@@ -1,0 +1,9 @@
+extrack zip nya,
+setelah extrack masuk ke folder nya buka command prompt difolder project nya
+jalan kan, php artisan key:generate
+buat database di MySQL dengan nama mediastream
+masuk lagi ke command prompt jalankan perintah php artisan migrate
+setelah selesai jalankan lagi perintah php artisan db:seed
+akses folder project, login dengan
+username : admin@admin.com
+password : password 
